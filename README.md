@@ -53,6 +53,13 @@ pip install -r requirements.txt
    - Detected match events
    - Statistical insights (e.g., ball possession, team performance)
 
+
+## External pre-trained model used
+Detecting the players , Ball , refrees:
+https://universe.roboflow.com/roboflow-jvuqo/football-ball-detection-rejhg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true 
+
+
+
 ## Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
