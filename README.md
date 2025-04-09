@@ -57,11 +57,8 @@ pip install -r requirements.txt
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ## Contact
 
-For any inquiries or support, contact: [[your-email@example.com](mailto\:your-email@example.com)]
+For any inquiries or support, contact: [a7mad24680@gmail.com]
 
