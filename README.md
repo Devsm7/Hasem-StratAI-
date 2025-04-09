@@ -12,8 +12,8 @@ Hasem is an advanced AI-powered platform that leverages **Computer Vision** tech
   - Fouls
 - **Match Analysis:** Tracks and analyzes key statistics such as:
   - Ball possession
-  - Player movements
-  - Team performance metrics
+  - shots
+  - passes
 - **Real-time Processing:** Uses **computer vision** to deliver instant insights with minimal delay.
 - **AI-powered Detection:** Utilizes deep learning models for accurate event recognition.
 
@@ -22,8 +22,12 @@ Hasem is an advanced AI-powered platform that leverages **Computer Vision** tech
 - **Computer Vision** (for event detection and analysis)
 - **Deep Learning Models** (for player, ball, and referee recognition)
 - **YOLOv8** (for object detection)
+- Supervision (for detection processing and annotations)
+- OpenCV (for image and video processing)
+- PyTorch (for deep learning model training and inference)
 - **NumPy & Pandas** (for data processing)
 - **Python** (for AI model development and integration)
+- Jupyter Notebook (for experimentation and model training)
 
 ## Installation
 
