@@ -66,7 +66,6 @@ https://universe.roboflow.com/yolo-b6voi/goalpost-u6e0h
 
 <img src="لقطة شاشة 2025-04-09 145519.png" width="500">
 
-[Watch the video](resulting_video5.mp4)
 
 ## Contact
 
