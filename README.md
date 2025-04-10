@@ -57,6 +57,8 @@ pip install -r requirements.txt
 ## External pre-trained model used
 Detecting the players , Ball , refrees:
 https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
+Detecting the Goalpost:
+https://universe.roboflow.com/yolo-b6voi/goalpost-u6e0h
 
 
 ## Contribution
