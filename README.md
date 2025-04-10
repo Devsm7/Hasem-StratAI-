@@ -64,7 +64,7 @@ https://universe.roboflow.com/yolo-b6voi/goalpost-u6e0h
 
 ## Demos
 
-![Alt text]([image_url](https://drive.google.com/file/d/1tEEY08SFONr09Dd8UDHjwy41FbVKSpiA/view))
+![Alt text](https://drive.google.com/file/d/1tEEY08SFONr09Dd8UDHjwy41FbVKSpiA/view)
 
 
 ## Contact
