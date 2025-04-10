@@ -16,17 +16,7 @@ SIGLIP_MODEL_PATH = 'google/siglip-base-patch16-224'
 def create_batches(
     sequence: Iterable[V], batch_size: int
 ) -> Generator[List[V], None, None]:
-    """
-    Generate batches from a sequence with a specified batch size.
-
-    Args:
-        sequence (Iterable[V]): The input sequence to be batched.
-        batch_size (int): The size of each batch.
-
-    Yields:
-        Generator[List[V], None, None]: A generator yielding batches of the input
-            sequence.
-    """
+   
     batch_size = max(batch_size, 1)
     current_batch = []
     for element in sequence:
