@@ -64,7 +64,7 @@ https://universe.roboflow.com/yolo-b6voi/goalpost-u6e0h
 
 ## Demos
 
-![Alt text](https://drive.google.com/file/d/1tEEY08SFONr09Dd8UDHjwy41FbVKSpiA/view)
+<img src="C:\Users\user\Pictures\Screenshots\لقطة شاشة 2025-04-09 145519.png" width="500">
 
 
 ## Contact
